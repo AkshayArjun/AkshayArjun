@@ -37,9 +37,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
+### 🗣️ Most Used Languages
 
-### 📈 **GitHub Stats**
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayArjun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
