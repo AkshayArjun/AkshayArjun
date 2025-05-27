@@ -19,9 +19,10 @@
   - Modern control for nonlinear autonomous bicopter
 
 - 🏆 **Internship:**  
-  - CSIR-CEERI, Pilani under Prof. Kaushal Kishore  
+  - Researched at the Advanced Information Technologies Group (AITG), CSIR - CEERI, pilani
     - Developed real-time waypoint tracking and obstacle avoidance for an autonomous rover
     - Bridged theoretical control with practical robotics systems
+    - Developed a flight controller pcb for use in drone swarms.
 
 - 👨‍🏫 **Teaching Assistant:** Control Theory course, BITS Pilani
 - 🤝 **Lead:** Automation and Robotics Club, BITS Pilani
