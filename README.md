@@ -44,7 +44,7 @@
 ---
 
 ### 📫 **Let's Connect!**
-- Email: aakshay1114@gmail.com
+- [Email](aakshay1114@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [GitHub](https://github.com/AkshayArjun)
 
