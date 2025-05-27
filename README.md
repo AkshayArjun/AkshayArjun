@@ -1,60 +1,3 @@
- 1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
 <!-- Replace AkshayArjun with your GitHub username -->
 <h1 align="center">Hi 👋, I'm Akshay Arjun</h1>
 <h3 align="center">Electronics & Instrumentation | Robotics | Control Theory Enthusiast</h3>
@@ -69,7 +12,7 @@
 
 - 🎓 **Third-year undergraduate at BITS Pilani, Hyderabad Campus**
 - 🤖 **Minor in Robotics and Automation**
-- 🧑‍🔬 **Research interests:** Control theory, learning-based robotics, and formal methods
+- 🧑‍🔬 **Research interests:** Control theory, learning-based robotics, UAVs
 - 💡 **Currently working on:**  
   - Training RL agents (SAC, DDPG, HER) for dual-arm humanoid coordination (sim-to-real, PyBullet + Python)
   - Smart controllers for planar snake robots (PyBullet simulation)
