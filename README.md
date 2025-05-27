@@ -35,6 +35,10 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-ff382a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZD0iTTI2LjU3IDExLjQzTDExLjQzIDI2LjU3Yy0uNTguNTgtMS41Mi41OC0yLjEwIDBsLTQuOTEtNC45MWMtLjU4LS41OC0uNTgtMS41MiAwLTIuMTBsMTUuMTQtMTUuMTRjLjU4LS41OCAxLjUyLS41OCAyLjEwIDBsNC45MSA0LjkxYy41OC41OC41OCAxLjUyIDAgMi4xMHoiLz48L3N2Zz4=)
+![Gazebo](https://img.shields.io/badge/Gazebo-2D3A4B?style=for-the-badge&logo=gazebo&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-005FAA?style=for-the-badge&logo=px4&logoColor=white)
+
 
 ---
 ### 🗣️ Most Used Languages
