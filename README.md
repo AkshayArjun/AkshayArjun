@@ -51,5 +51,5 @@
 ---
 
 <!-- Optional: Fun fact, quote, or personal touch -->
-> *"Control theory is the hidden language that brings robots to life."*
+> *"Control theory is the hidden language that brings systems to life."*
 
