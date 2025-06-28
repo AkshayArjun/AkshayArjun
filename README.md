@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:aakshay1114@gmail.com">Email</a> •
   <a href="https://github.com/AkshayArjun">GitHub</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/akshay-arjun">LinkedIn</a>
 </p>
 
 ---
@@ -22,7 +22,7 @@
   - Researched at the Advanced Information Technologies Group (AITG), CSIR - CEERI, pilani
     - Developed real-time waypoint tracking and obstacle avoidance for an autonomous rover
     - Bridged theoretical control with practical robotics systems
-    - Developed a flight controller pcb for use in drone swarms.
+    - Developed a flight controller pcb for use in drone swarms
 
 - 👨‍🏫 **Teaching Assistant:** Control Theory course, BITS Pilani
 - 🤝 **Lead:** Automation and Robotics Club, BITS Pilani
