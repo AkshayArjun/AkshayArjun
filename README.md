@@ -49,7 +49,7 @@
 
 ### 📫 **Let's Connect!**
 - [Email](aakshay1114@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/akshay-arjun)
 - [GitHub](https://github.com/AkshayArjun)
 
 ---
