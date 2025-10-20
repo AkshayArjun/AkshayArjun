@@ -10,7 +10,7 @@
 
 ---
 
-- 🎓 **Third-year undergraduate at BITS Pilani, Hyderabad Campus**
+- 🎓 **Fourth-year undergraduate at BITS Pilani, Hyderabad Campus**
 - 🤖 **Minor in Robotics and Automation**
 - 🧑‍🔬 **Research interests:** Control theory, learning-based robotics, UAVs
 - 💡 **Currently working on:**  
