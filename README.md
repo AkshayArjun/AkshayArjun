@@ -14,8 +14,9 @@
 - 🤖 **Minor in Robotics and Automation**
 - 🧑‍🔬 **Research interests:** Control theory, learning-based robotics, UAVs
 - 💡 **Currently working on:**  
-  - Training RL agents (SAC, DDPG, HER) for dual-arm humanoid coordination (sim-to-real, PyBullet + Python)
-  - Smart controllers for planar snake robots (PyBullet simulation)
+  - Machine Learning based controllers for EV motors
+  - Design and control of Agile UAVs using Reinforcement Learning
+  - Dual Arm grasping
   - Modern control for nonlinear autonomous bicopter
 
 - 🏆 **Internship:**  
